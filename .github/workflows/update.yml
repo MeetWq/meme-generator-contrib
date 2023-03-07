@@ -31,9 +31,9 @@ jobs:
       - name: Change config
         run: |
           mkdir -p ~/.config/meme_generator
-          echo "[meme]\nload_builtin_memes = false\nmeme_dirs = [\"$GITHUB_WORKSPACE/memes\"]" > ~/.config/meme_generator/config.toml
+          echo -e "[meme]\nload_builtin_memes = false\nmeme_dirs = [\"$GITHUB_WORKSPACE/memes\"]" > ~/.config/meme_generator/config.toml
           echo $GITHUB_WORKSPACE
-          echo "[meme]\nload_builtin_memes = false\nmeme_dirs = [\"$GITHUB_WORKSPACE/memes\"]"
+          echo -e "[meme]\nload_builtin_memes = false\nmeme_dirs = [\"$GITHUB_WORKSPACE/memes\"]"
 
       - name: Update memes.md
         run: python3 docs/update_doc.py
