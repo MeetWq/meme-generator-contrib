@@ -28,8 +28,6 @@ jobs:
           sudo apt install fonts-noto-cjk fonts-noto-color-emoji
           sudo locale-gen zh_CN zh_CN.UTF-8
           sudo update-locale LC_ALL=zh_CN.UTF-8 LANG=zh_CN.UTF-8
-          sudo mkdir /usr/share/fonts/myfonts
-          sudo cp resources/fonts/* /usr/share/fonts/myfonts/
           fc-cache -fv
 
       - name: Change config
