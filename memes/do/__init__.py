@@ -35,4 +35,4 @@ def do(images: List[BuildImage], texts, args):
     return save_gif(frames, 0.05)
 
 
-add_meme("do", do, min_images=2, max_images=2, keywords=["撅", "狠狠的撅"])
+add_meme("do", do, min_images=2, max_images=2, keywords=["撅", "狠狠地撅"])
