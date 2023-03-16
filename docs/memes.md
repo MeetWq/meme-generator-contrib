@@ -3,9 +3,20 @@
 按照表情的 `key` 排列
 
 
-1. [do (撅/狠狠地撅)](#do)
-2. [forbid (禁止/禁)](#forbid)
+1. [can_can_need (看看你的)](#can_can_need)
+2. [do (撅/狠狠地撅)](#do)
+3. [forbid (禁止/禁)](#forbid)
 
+
+## can_can_need
+
+- 关键词：`看看你的`
+- 需要图片数目：`2`
+- 需要文字数目：`0`
+- 预览：
+<div align="left">
+  <img src="images/can_can_need.jpg" width="200" />
+</div>
 
 ## do
 
