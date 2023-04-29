@@ -6,10 +6,11 @@
 1. [can_can_need (看看你的)](#can_can_need)
 2. [do (撅/狠狠地撅)](#do)
 3. [empathy (换位思考)](#empathy)
-4. [forbid (禁止/禁)](#forbid)
-5. [grab (抓)](#grab)
-6. [operator_generator (合成大干员)](#operator_generator)
-7. [stretch (双手/伸展)](#stretch)
+4. [fleshlight (飞机杯)](#fleshlight)
+5. [forbid (禁止/禁)](#forbid)
+6. [grab (抓)](#grab)
+7. [operator_generator (合成大干员)](#operator_generator)
+8. [stretch (双手/伸展)](#stretch)
 
 
 ## can_can_need
@@ -40,6 +41,16 @@
 - 预览：
 <div align="left">
   <img src="images/empathy.jpg" width="200" />
+</div>
+
+## fleshlight
+
+- 关键词：`飞机杯`
+- 需要图片数目：`1`
+- 需要文字数目：`0`
+- 预览：
+<div align="left">
+  <img src="images/fleshlight.gif" width="200" />
 </div>
 
 ## forbid
