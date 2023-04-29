@@ -12,7 +12,7 @@
 
 ## 使用方式
 
-参考 [`meme-generator` 加载其他表情的方式](https://github.com/MeetWq/meme-generator/blob/main/docs/develop.md#加载表情)
+参考 [`meme-generator` 加载其他表情的方式](https://github.com/MeetWq/meme-generator/blob/main/README.md#加载其他表情)
 
 
 ## 声明
